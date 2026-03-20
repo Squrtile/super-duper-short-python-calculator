@@ -1,0 +1,3 @@
+qustion=input("this is a calculator so please use / for division and * for multiplying:")
+result=eval(qustion)
+print(result)
